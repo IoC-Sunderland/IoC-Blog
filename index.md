@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://instituteofcoding.org) and ![Image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwixjrHQ2vjkAhUmzoUKHTu3AI4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.eventbrite.co.uk%2Fe%2Fcoding-101-curious-about-coding-tickets-71063539961&psig=AOvVaw0QkfA0-kijiqMoq7L4jhyU&ust=1569938449048453)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
