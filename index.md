@@ -11,8 +11,8 @@ We are running our Coding 101 Introduction to Coding events every month here at 
 You don't need any previous experience with coding as we will take you from coding zero to coding hero!
 
 
-[Institute of Coding](https://instituteofcoding.org) 
+[Coding 101: Introduction to Coding](https://www.eventbrite.co.uk/e/coding-101-curious-about-coding-tickets-71063539961)
 
-![Image](https://www.eventbrite.co.uk/e/coding-101-curious-about-coding-tickets-71063539961)
+![Image]
 
 
