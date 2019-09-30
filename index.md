@@ -2,7 +2,7 @@
 
 Keep informed on all IoC (Institue of Coding) activities happening in and around Sunderland.
 
-### Coding 101
+### Coding 101 - 2nd October 2019
 
 Are you Curious About Coding? If you are then make your way down to the University of Sunderland to start your coding adventure!
 
