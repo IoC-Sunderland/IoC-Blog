@@ -1,6 +1,6 @@
 ## Institute of Coding (IoC) Sunderland
 
-Keep informed on all IoC (Institue of Coding) activities happening in and around Sunderland.
+Keeping you informed on all IoC (Institue of Coding) activities happening in and around Sunderland.
 
 ### Coding 101 - 2nd October 2019
 
