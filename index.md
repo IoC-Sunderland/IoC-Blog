@@ -13,6 +13,6 @@ You don't need any previous experience with coding as we will take you from codi
 
 [Coding 101: Introduction to Coding](https://www.eventbrite.co.uk/e/coding-101-curious-about-coding-tickets-71063539961)
 
-![Image]
+![Image](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70486937%2F282900914618%2F1%2Foriginal.20190605-133142?w=1000&auto=compress&rect=21%2C0%2C2160%2C1080&s=4837df9f37b4fc4cbb59a4e8ae87135c)
 
 
