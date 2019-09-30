@@ -1,4 +1,4 @@
-## Welcome to IoC Sunderland
+## Institute of Coding (IoC) Sunderland
 
 Keep informed on all IoC (Institue of Coding) activities happening in and around Sunderland.
 
