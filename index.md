@@ -7,7 +7,7 @@ Keeping you informed on all IoC (Institue of Coding) activities happening in and
 Are you Curious About Coding? If you are then make your way down to the University of Sunderland to start your coding adventure!
 
 We are running our Coding 101 Introduction to Coding events every month here
-at the \ [St Peters Campus](https://www.google.com/maps?ll=54.91168,-1.374303&z=16&t=m&hl=en-GB&gl=GB&mapclient=embed&daddr=University+of+Sunderland,+Sir+Tom+Cowie+Campus+at+St+Peter’s+St+Peters+Campus,+St+Peters+Way+Sunderland+SR6+0DD@54.91168,-1.374303)
+at the <br/> [St Peters Campus](https://www.google.com/maps?ll=54.91168,-1.374303&z=16&t=m&hl=en-GB&gl=GB&mapclient=embed&daddr=University+of+Sunderland,+Sir+Tom+Cowie+Campus+at+St+Peter’s+St+Peters+Campus,+St+Peters+Way+Sunderland+SR6+0DD@54.91168,-1.374303)
 
 You don't need any previous experience with coding as we will take you from coding zero to coding hero!
 
