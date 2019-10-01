@@ -6,7 +6,8 @@ Keeping you informed on all IoC (Institue of Coding) activities happening in and
 
 Are you Curious About Coding? If you are then make your way down to the University of Sunderland to start your coding adventure!
 
-We are running our Coding 101 Introduction to Coding events every month here at the <strong>St Peters Campus</strong>.
+We are running our Coding 101 Introduction to Coding events every month here
+at the <strong>St Peters Campus</strong>.
 
 You don't need any previous experience with coding as we will take you from coding zero to coding hero!
 
