@@ -1,6 +1,20 @@
-## Institute of Coding (IoC) Sunderland
 
-Keeping you informed on all IoC (Institue of Coding) activities happening in and around Sunderland.
+
+`IoC Bootcamp 2019`
+University
+### IoC Bootcamp - September/October 2019
+
+Throughout September and October the IoC in conjunction with Digital Union are running a bootcamp here at University of Sunderland to help existing students and graduates learn industry-led ‘top-up’ skills including valuable agency & project experience and essential soft skills training.
+
+Learners are currently working on a live brief provided by Newcastle based NBS (a technology platform for the construction industry) and have received talks from representatives of local tech companies such as Drummond, Cool Blue, Sunderland Software City and Tombola.
+
+[Click here for more info](https://instituteofcoding.org/events/digital-bootcamp-for-students-and-graduates/)
+
+![Image](https://sunderlandvibe.com/wp-content/uploads/2019/02/2019pr034pic2-1200x640.jpg)
+
+
+`Coding 101 2nd October 2019`
+
 
 ### Coding 101 - 2nd October 2019
 
