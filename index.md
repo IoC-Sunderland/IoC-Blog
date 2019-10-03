@@ -1,9 +1,7 @@
 <!--- Upcoming Events -->
 
-### Upcoming Events
+### Upcoming IoC events at the University of Sunderland
 <i>Published on 03/10/2019</i>
-
-### Upcoming IoC events at the University of Sunderland:
 
 Wednesday 16th October 2019 - Coding 101: Introduction to Coding
 Wednesday 23rd October 2019 - Coding 102: Further your coding skills in Python
