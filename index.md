@@ -6,7 +6,6 @@ The University of Sunderland and the Institute of Coding (IoC) teamed up with Di
 
 During the course, learners were provided with key concepts and approaches in cyber security as well as contextual examples and exercises, which combined knowledge of security strategies with coding implementation.
 
-![Image](https://3yy7gm31u9o0it5f51gqn0j1-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Cyber-Skills-developers-banner-image-cropped-585x356.jpg)
 
 `IoC Bootcamp 2019`
 
