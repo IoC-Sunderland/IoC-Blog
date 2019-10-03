@@ -1,3 +1,20 @@
+<!--- Upcoming Events -->
+
+### Upcoming Events
+<i>Published on 03/10/2019</i>
+
+### Upcoming IoC events at the University of Sunderland:
+
+Wednesday 16th October 2019 - Coding 101: Introduction to Coding
+Wednesday 23rd October 2019 - Coding 102: Further your coding skills in Python
+Wednesday 30th October 2019 - Coding 103: Introduction to Object Oriented Programming in Python
+
+All events will be held at [Sir Tom Cowie Campus](https://www.google.com/maps/dir//sir+tom+cowie+campus/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x487e66616d5f8823:0xaaac8a17409bd474?sa=X&ved=2ahUKEwif2q2Dm4DlAhWOURUIHSlIC9YQ9RcwFHoECA4QEQ)
+
+Eventbrite links to follow...
+
+
+
 <!--- Cyber Skills -->
 
 ### IoC Cyber Security for Web and App developers - 26 September 2019
