@@ -1,19 +1,17 @@
-`Cyber Skills `
-
-<i>Published on 03/10/2019</i>
+<!--- Cyber Skills -->
 
 ### IoC Cyber Security for Web and App developers - 26 September 2019
+<i>Published on 03/10/2019</i>
 
 The University of Sunderland and the Institute of Coding (IoC) teamed up with Digital Union to offer web and app developers a free 1 day cyber skills course on the 26th September.
 
 During the course, learners were provided with key concepts and approaches in cyber security as well as contextual examples and exercises, which combined knowledge of security strategies with coding implementation.
 
 
-`IoC Bootcamp 2019`
-
-<i>Published on 03/10/2019</i>
+<!--- IoC Bootcamp 2019 -->
 
 ### IoC Bootcamp - September/October 2019
+<i>Published on 03/10/2019</i>
 
 Throughout September and October the IoC in conjunction with Digital Union are running a bootcamp here at University of Sunderland to help existing students and graduates learn industry-led ‘top-up’ skills including valuable agency & project experience and essential soft skills training.
 
@@ -24,8 +22,7 @@ Learners are currently working on a live brief provided by Newcastle based NBS (
 ![Image](https://sunderlandvibe.com/wp-content/uploads/2019/02/2019pr034pic2-1200x640.jpg)
 
 
-`Coding 101 2nd October 2019`
-
+<!--- Coding 101 2nd October 2019 -->
 
 ### Coding 101 - 2nd October 2019
 <i>Published on 01/10/2019</i>
