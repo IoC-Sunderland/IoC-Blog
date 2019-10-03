@@ -1,7 +1,7 @@
 
 
 `IoC Bootcamp 2019`
-University
+
 ### IoC Bootcamp - September/October 2019
 
 Throughout September and October the IoC in conjunction with Digital Union are running a bootcamp here at University of Sunderland to help existing students and graduates learn industry-led ‘top-up’ skills including valuable agency & project experience and essential soft skills training.
