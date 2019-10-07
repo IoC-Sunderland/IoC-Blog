@@ -17,6 +17,8 @@ Most of the guys have not used ANY of this stuff and so it is a HUGE learning cu
 
 More updates to follow...
 
+![Image](https://camo.githubusercontent.com/16068dbb37e2d7fdae1127de35a336c5f254a5e7/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6173736574732e6769746875622e7365727665726c6573732f726561646d652d7365727665726c6573732d6672616d65776f726b2e6a7067)
+
 <!--- Upcoming Events -->
 
 ### Upcoming IoC events at the University of Sunderland
