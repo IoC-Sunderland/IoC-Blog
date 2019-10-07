@@ -1,3 +1,22 @@
+<!--- Bootcamp Update -->
+
+### Bootcamp Update
+<i>Published on 07/10/2019</i>
+
+Throughout September and October the IoC in conjunction with Digital Union are running a bootcamp here at University of Sunderland to help grads and current undergrads/masters students get to grips with what skills industry are looking for right now.
+
+The teams are busy trying to implement a serverless architecture to deliver a solution for Newcastle based NBS (a technology platform for the construction industry). 
+
+The tech stack is looking like this:
+
+Python 3.7
+Serverless framework (AWS Lambda)
+Dynamo DB
+
+Most of the guys have not used ANY of this stuff and so it is a HUGE learning curver for them but they are going all out and pushing their abilities.
+
+More updates to follow...
+
 <!--- Upcoming Events -->
 
 ### Upcoming IoC events at the University of Sunderland
