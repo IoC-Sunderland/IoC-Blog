@@ -13,7 +13,7 @@ Python 3.7<br/>
 Serverless framework (AWS Lambda)<br/> 
 Dynamo DB<br/> 
 
-Most of the guys have not used ANY of this stuff and so it is a HUGE learning curver for them but they are going all out and pushing their abilities.
+Most of the guys have not used ANY of this stuff and so it is a HUGE learning curve for them but they are going all out and pushing their abilities.
 
 More updates to follow...
 
