@@ -9,9 +9,9 @@ The teams are busy trying to implement a serverless architecture to deliver a so
 
 The tech stack is looking like this:
 
-Python 3.7
-Serverless framework (AWS Lambda)
-Dynamo DB
+Python 3.7<br/> 
+Serverless framework (AWS Lambda)<br/> 
+Dynamo DB<br/> 
 
 Most of the guys have not used ANY of this stuff and so it is a HUGE learning curver for them but they are going all out and pushing their abilities.
 
