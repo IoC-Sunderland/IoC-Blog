@@ -1,5 +1,21 @@
 <!--- Bootcamp Update -->
 
+### Design Thinking
+<i>Published on 10/10/2019</i>
+
+This weeks bootcamp session was kindly hosted by Hedgehog Lab who took the guys through a Design Thinking style ideation session. 
+
+Affinity digrams, Crazy 8's and copious amounts of free coffee were the order of the today!
+
+More updates to follow...
+
+![Image](img/IMG_2452.jpg)
+![Image](img/IMG_1234.jpg)
+![Image](img/IMG_9437.jpg)
+
+
+<!--- Bootcamp Update -->
+
 ### Bootcamp Update
 <i>Published on 07/10/2019</i>
 
