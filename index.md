@@ -42,7 +42,7 @@ More updates to follow...
 
 Wednesday 16th October 2019 - [Coding 101: Introduction to Coding](https://www.eventbrite.co.uk/e/coding-101-curious-about-coding-tickets-74676179463) <br/> 
 Wednesday 23rd October 2019 - [Coding 102: Further your coding skills in Python](https://www.eventbrite.co.uk/e/coding-102-even-more-curious-about-coding-tickets-75229803367) <br/> 
-Wednesday 30th October 2019 - [Coding 103: Introduction to Object Oriented Programming in Python](https://www.eventbrite.co.uk/e/coding-103-an-introduction-to-object-oriented-programming-tickets-75301329303)
+Wednesday 13th November 2019 - [Coding 103: Introduction to Object Oriented Programming in Python](https://www.eventbrite.co.uk/e/coding-103-an-introduction-to-object-oriented-programming-tickets-75301329303)
 <br/> 
 
 All events will be held at [Sir Tom Cowie Campus](https://www.google.com/maps/dir//sir+tom+cowie+campus/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x487e66616d5f8823:0xaaac8a17409bd474?sa=X&ved=2ahUKEwif2q2Dm4DlAhWOURUIHSlIC9YQ9RcwFHoECA4QEQ)
