@@ -1,3 +1,11 @@
+### Bootcamp final day
+<i>Published on 17/10/2019</i>
+
+Our bootcamp attendees wrapped up the  IoC bootcamp (in conjunction with Digital Union) by presenting their project solutions to NBS in front of an audience of digital professionals from around the region.This followed another interesting session on professionalism in practice (including mock interviews), kindly hosted by Orange Bus.
+
+
+
+
 <!--- Upcoming Events -->
 
 ### More dates for your diary
@@ -18,7 +26,7 @@ All events will be held at [Sir Tom Cowie Campus](https://www.google.com/maps/di
 
 This weeks bootcamp session was kindly hosted by Hedgehog Lab who took the guys through a Design Thinking style ideation session. 
 
-Affinity digrams, Crazy 8's and copious amounts of free coffee were the order of the today!
+Affinity diagrams, Crazy 8's and copious amounts of free coffee were the order of the today!
 
 More updates to follow...
 
