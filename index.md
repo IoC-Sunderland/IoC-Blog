@@ -1,9 +1,13 @@
 ### Bootcamp final day
 <i>Published on 17/10/2019</i>
 
-Our bootcamp attendees wrapped up the  IoC bootcamp (in conjunction with Digital Union) by presenting their project solutions to NBS in front of an audience of digital professionals from around the region.This followed another interesting session on professionalism in practice (including mock interviews), kindly hosted by Orange Bus.
+Our bootcamp attendees wrapped up the IoC bootcamp (in conjunction with Digital Union) by presenting their project solutions to NBS in front of an audience of digital professionals from around the region.
 
+This followed another interesting session on professionalism in practice (including mock interviews), kindly hosted by Orange Bus.
 
+![Image](img/0.jpg)
+![Image](img/1.jpg)
+![Image](img/2.jpg)
 
 
 <!--- Upcoming Events -->
