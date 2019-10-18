@@ -1,3 +1,5 @@
+<!--- Bootcamp final day -->
+
 ### Bootcamp final day
 <i>Published on 17/10/2019</i>
 
