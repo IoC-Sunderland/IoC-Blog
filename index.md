@@ -7,7 +7,7 @@ Ever wondered what you could do with all that data you're collecting? what if yo
 
 Institute of Coding and the University of Sunderland are holding a Data Analytics session at VentureFest to help develop data analytical skills that could enable new ways of doing business, significantly improve productivity, drive greater efficiency and open-up new markets.
 
-![Image](img/venture-fest.jpg)
+![Image](img/Screenshot 2019-11-15 at 13.22.35.png)
 
 
 <!--- Bootcamp final day -->
