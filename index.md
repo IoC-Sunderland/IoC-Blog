@@ -1,5 +1,7 @@
 <!--- Data Analytics at VentureFest -->
 ### Data Analytics Challenges
+<i>Published on 29/11/2019</i>
+
 Over 40 participants attended our workshop "Data Analytics for Business Growth" as part of VentureFest.
 Participants from many different domains including engineering, manufacturing and retail shared their data challenges and gained insight into how to resolve them.
 
