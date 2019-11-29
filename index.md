@@ -1,4 +1,16 @@
 <!--- Data Analytics at VentureFest -->
+### Data Analytics Challenges
+Over 40 participants attended our workshop "Data Analytics for Business Growth" as part of VentureFest.
+Participants from many different domains including engineering, manufacturing and retail shared their data challenges and gained insight into how to resolve them.
+
+Big thanks to Steph Clish from Wordnerds and Professor Yonghong Peng from the University of Sunderland for their expertise in  explaining how utilising data analytics skills in your business can lead to innovative new business models.
+
+![Image](img/venture-fest-analytics-1.jpeg)
+![Image](img/venture-fest-analytics-2.jpeg)
+![Image](img/venture-fest-analytics-3.jpeg)
+
+
+<!--- Data Analytics at VentureFest -->
 
 ### Data Analytics at VentureFest
 <i>Published on 15/11/2019</i>
