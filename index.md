@@ -4,7 +4,7 @@
 
 We have several exciting events lined up for the start of 2020 including more of our Coding 101/102/103 series.
 
-Eventbrite links for all upcoming events can be found at: https://iocsunderland.com
+Eventbrite links for all upcoming events can be found at: [https://iocsunderland.com](https://iocsunderland.com)
 
 More news to follow...
 
