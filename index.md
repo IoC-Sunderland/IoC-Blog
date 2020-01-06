@@ -1,3 +1,13 @@
+<!--- IoC 2020 -->
+### IoC Events 2020
+<i>Published on 06/01/2020</i>
+
+We have several exciting events lined up for the start of 2020 including more of our Coding 101/102/103 series.
+
+Eventbrite links for all upcoming events can be found at: https://iocsunderland.com
+
+More news to follow...
+
 <!--- Data Analytics at VentureFest -->
 ### Data Analytics Challenges
 <i>Published on 29/11/2019</i>
