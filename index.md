@@ -1,5 +1,5 @@
 <!--- DA-x (Data Analytics for Everyone) -->
-### DA-x (Data Analytics for Everyone)
+### DA-X (Data Analytics for Everyone)
 <i>Published on 29/01/2020</i>
 
 ![Image](img/DA_X Data Analytics for Everyone 12th March eventbrite.jpg)
@@ -8,7 +8,7 @@ Getting intelligent insights into data provides businesses with huge untapped op
 
 With the aim to help face these challenges the IoC(Institute of Coding) and University of Sunderland have created <strong>DA-x (Data Analytics for Everyone)</strong>.
 
-<strong>DA-x</strong> is a series of 3 <strong>free</strong> one-day events that will help businesses understand
+<strong>DA-X</strong> is a series of 3 <strong>free</strong> one-day events that will help businesses understand
 how they can use open source (free!) technologies to analyze and present data.
 
 Topics include:
