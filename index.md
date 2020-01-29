@@ -8,13 +8,14 @@ Getting intelligent insights into data provides businesses with huge untapped op
 
 With the aim to help face these challenges the IoC(Institute of Coding) and University of Sunderland have created <strong>DA-x (Data Analytics for Everyone)</strong>.
 
-DA-x is a series of 3 <strong>free</strong> one-day events that will help businesses understand how they can use open source (free!) technologies to analyze and present data.
+<strong>DA-x</strong> is a series of 3 <strong>free</strong> one-day events that will help businesses understand
+how they can use open source (free!) technologies to analyze and present data.
 
 Topics include:
 
-<strong>Coding for Data Analysis and Visualisation</strong>
-<strong>Statistical Data Analysis and Machine Learning</strong>
-<strong>Machine Learning for Data Analysis</strong>
+<strong>Coding for Data Analysis and Visualisation</strong><br>
+<strong>Statistical Data Analysis and Machine Learning</strong><br>
+<strong>Machine Learning for Data Analysis</strong><br>
 
 If that wasn't enough to get you excited, lunch is on us!
 
