@@ -2,7 +2,7 @@
 ### DA-x (Data Analytics for Everyone)
 <i>Published on 29/01/2020</i>
 
-![Image](static/img/DA_X Data Analytics for Everyone 12th March eventbrite.jpg)
+![Image](img/DA_X Data Analytics for Everyone 12th March eventbrite.jpg)
 
 Getting intelligent insights into data provides businesses with huge untapped opportunities but can also pose some fundamental challenges. 
 
