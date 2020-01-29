@@ -6,7 +6,8 @@
 
 Getting intelligent insights into data provides businesses with huge untapped opportunities but can also pose some fundamental challenges. 
 
-With the aim to help face these challenges the IoC(Institute of Coding) and University of Sunderland have created <strong>DA-x (Data Analytics for Everyone)</strong>.
+With the aim to help face these challenges the IoC(Institute of Coding) and University of Sunderland have created
+<strong>DA-X (Data Analytics for Everyone)</strong>.
 
 <strong>DA-X</strong> is a series of 3 <strong>free</strong> one-day events that will help businesses understand
 how they can use open source (free!) technologies to analyze and present data.
